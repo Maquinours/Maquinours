@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maquinours&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
